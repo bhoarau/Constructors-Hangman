@@ -1,0 +1,23 @@
+{
+  "name": "constructors-hangman",
+  "version": "1.0.0",
+  "description": "constructors-hangman",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhoarau/Constructors-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhoarau/Constructors-Hangman/issues"
+  },
+  "homepage": "https://github.com/bhoarau/Constructors-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "prompt": "^1.0.0"
+  }
+}
